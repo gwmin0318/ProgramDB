@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\GitHub\ProgramDB\arr_Prog\arr_Prog\bin\Debug\arr_Prog.exe
+C:\Users\Administrator\Documents\GitHub\ProgramDB\arr_Prog\arr_Prog\bin\Debug\arr_Prog.pdb
+C:\Users\Administrator\Documents\GitHub\ProgramDB\arr_Prog\arr_Prog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\ProgramDB\arr_Prog\arr_Prog\obj\Debug\arr_Prog.Form1.resources
+C:\Users\Administrator\Documents\GitHub\ProgramDB\arr_Prog\arr_Prog\obj\Debug\arr_Prog.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\ProgramDB\arr_Prog\arr_Prog\obj\Debug\arr_Prog.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\ProgramDB\arr_Prog\arr_Prog\obj\Debug\arr_Prog.exe
+C:\Users\Administrator\Documents\GitHub\ProgramDB\arr_Prog\arr_Prog\obj\Debug\arr_Prog.pdb
