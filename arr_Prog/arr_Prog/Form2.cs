@@ -9,22 +9,23 @@ using System.Windows.Forms;
 
 namespace arr_Prog
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
 
-        private void IDB_ADD_Click(object sender, EventArgs e)
+        private void IDB_DATAUP_Click(object sender, EventArgs e)
         {
-            Form2 DataSetup = new Form2();
-            DataSetup.ShowDialog();
+            this.Close();
         }
 
-        private void IDB_EXIT_Click(object sender, EventArgs e)
+        private void IDB_CANCLE_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
+
+
     }
 }
